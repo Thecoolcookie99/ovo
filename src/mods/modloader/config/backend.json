@@ -982,7 +982,7 @@
         },
         "flymod": {
             "name": "Fly",
-            "author": "Toadi",
+            "author": "drakeerv",
             "desc": "Use [activator key] + [arrows] to fly around!<br/><br/>Use the settings to change the speed and activator keybind.",
             "url": "../src/mods/modloader/flymod.js",
             "icon": "../src/img/mods/fly.png",
@@ -1179,7 +1179,7 @@
         },
         "modapi": {
             "name": "Mod API",
-            "author": null,
+            "author": "drakeerv",
             "desc": "Open in devtools to use manipulate game mechanics.",
             "url": "../src/mods/modloader/modapi.js",
             "icon": "../src/img/mods/modapi.png",
